@@ -6,7 +6,7 @@ you need to have msyql database colled items and table colled items, table need 
 
 you also need table users : id email password
 
-you can use my other tool for mysql jobs: ***************
+you can use my other tool for mysql jobs: https://github.com/lukjeje/MyPHPcrud.git
 
 PHPmarket preview: 
 
