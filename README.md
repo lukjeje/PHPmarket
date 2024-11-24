@@ -7,3 +7,5 @@ you need to have msyql database colled items and table colled items, table need 
 you can use my other tool for mysql jobs: ***************
 
 PHPmarket preview: 
+
+![Screenshot from 2024-11-24 19-32-44](https://github.com/user-attachments/assets/b0781335-2c93-4ed3-a9c5-ad73f9a4db29)
