@@ -4,6 +4,8 @@ when you add item to store add piture to images folder thet alerady exist and th
 
 you need to have msyql database colled items and table colled items, table need to have: id  img  price  name  info
 
+you also need table users : id email password
+
 you can use my other tool for mysql jobs: ***************
 
 PHPmarket preview: 
